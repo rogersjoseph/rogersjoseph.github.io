@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+    max-width: 900px;
+
+}
+
+
+body{
+	background-color:#D0D0D0;
+}
+
+#navbar-container {
+		border-top: 0px solid rgba(0,0,0,0.1);
+		border-right: 0px solid rgba(0,0,0,0.1);
+		border-left: 0px solid rgba(0,0,0,0.1);
+	border-bottom: 5px solid rgba(0,0,0,0.1);
+}
+
+
