@@ -2,8 +2,19 @@
 /* CSS Document */
 
 .container {
-    max-width: 800px;
+    max-width: 850px;
 
+}
+#face_pic{
+	height:280px;
+	align:center;
+	
+}
+
+#page_content{
+	margin-top:25px;
+	margin-bottom:25px;
+	
 }
 
 /*
@@ -31,6 +42,12 @@ padding:30px;
 #nav_img{
 	height:0px;
 }
+
+#face_text{
+	padding:15px;
+}
+
+
 
 @media screen and (min-width: 991px) {   
 	
